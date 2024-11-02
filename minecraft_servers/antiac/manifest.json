@@ -5,7 +5,6 @@
   "server_wildcards": [
     "%.antiac.net",
     "%.antiac.eu",
-    "%.antiac.de",
     "%.antiac.us"
   ],
   "social": {
